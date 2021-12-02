@@ -1,0 +1,6 @@
+name:Good Culture Organic Cottage Cheese, Classic
+price:5.29
+mail:service@freshdirect.com
+desc:The little black dress of the dairy world. You can never go wrong with a classic! Creamy organic cottage cheese from grass-fed cows. Our recipe for delicious is simple; we use organic milk, organic cream, salt, and live cultures. Nothing else. Got it? Good. (from Good Culture)
+address:-
+phone:1-866-283-7374

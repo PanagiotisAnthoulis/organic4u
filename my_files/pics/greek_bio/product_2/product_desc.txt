@@ -1,0 +1,6 @@
+name:Organic Halva with Raw Greek Honey
+desc:Halva is one of the tastiest & healthiest offerings of the Eastern Mediterranean cuisine and its name derives from the Arabic word "halwa", meaning sweet. 
+Tahini* (crushed + hulled sesame seed), honey * 48,5%. 
+
+* May contain traces of other nuts
+price:13.90
